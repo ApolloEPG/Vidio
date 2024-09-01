@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv date="1/1/2021 12:00:00 PM" source-info-url="" source-info-name="" generator-info-name="" generator-info-url="">
+
+<channel id="VIDIO SPORTS">
+<display-name>VIDIO SPORTS</display-name>
+</channel>
+
+<programme channel="VIDIO SPORTS" start="20240101000000 +0000" stop="20251231235900 +0000">
+<title>VIDIO SPORTS</title>
+<desc>Vidio Sports - Various Sports Available On This Channel Including English Premier League</desc>
+<sub-title>VIDIO SPORTS</sub-title>
+</programme>
+
+</tv>
