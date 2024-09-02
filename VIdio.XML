@@ -1,14 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tv date="1/1/2021 12:00:00 PM" source-info-url="" source-info-name="" generator-info-name="" generator-info-url="">
-
-<channel id="VIDIO SPORTS">
-<display-name>VIDIO SPORTS</display-name>
+<tv generator-info-name="mydummy" generator-info-url="https://null.null/">
+<channel id="101Dalmatians">
+<display-name lang="pt">101Dalmatians</display-name>
 </channel>
-
-<programme channel="VIDIO SPORTS" start="20240101000000 +0000" stop="20251231235900 +0000">
-<title>VIDIO SPORTS</title>
-<desc>Vidio Sports - Various Sports Available On This Channel Including English Premier League</desc>
-<sub-title>VIDIO SPORTS</sub-title>
+<programme start="20240902000000 +0000" stop="20250902235900 +0000" channel="101Dalmatians">
+<title lang="pt">24/7 101 Dalmatians</title>
+<desc lang="pt">24/7 101 Dalmatians</desc>
 </programme>
-
-</tv>
+<programme start="20240903000000 +0000" stop="20250903235900 +0000" channel="101Dalmatians">
+<title lang="pt">24/7 101 Dalmatians</title>
+<desc lang="pt">24/7 101 Dalmatians</desc>
+</programme>
