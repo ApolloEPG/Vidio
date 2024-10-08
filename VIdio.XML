@@ -1,24 +1,1037 @@
-<tv generator-info-name="mydummy" generator-info-url="https://null.null/">
-<channel id="(EPL) - Liverpool">
-<display-name lang="pt">(EPL) - Liverpool</display-name>
+<tv generator-info-name="none" generator-info-url="none">
+<channel id="Premier League Teams 2024/25">
+<display-name lang="en">Premier League Teams 2024/25</display-name>
+<icon src="https://archive.org/download/Barnsley_202309/Barnsley.jpg"/>
 </channel>
-<programme start="20240902000000 +0000" stop="20250902235900 +0000" channel="(EPL) - Liverpool">
-<title lang="pt">Tottenham Hotspur v Arsenal - Sunday 15th September - 14:00 Kick Off GMT - English Premier League</title>
-<desc lang="pt">Next Fixture - Tottenham Hotspur v Arsenal - Sunday 15th September - 14:00 Kick Off GMT - English Premier League</desc>
+<programme start="20240701000000 +0000" stop="20250730215959 +0000" channel="Premier League Teams 2024/25">
+<title lang="en">Premier League Teams</title>
+<desc lang="en">This Section Has Two Channels For Each Premier League Team And Will Show League + Cup Games For All 2024/25 Games</desc>
 </programme>
-<programme start="20240903000000 +0000" stop="20250903235900 +0000" channel="(EPL) - Liverpool">
-<title lang="pt">Aston Villa v Everton - Saturday 14th September - 17:30 Kick Off GMT - English Premier League</title>
-<desc lang="pt">Next Fixture - Aston Villa v Everton - Saturday 14th September - 17:30 Kick Off GMT - English Premier League</desc>
+<programme start="20240702000000 +0000" stop="20250730215959 +0000" channel="Premier League Teams 2024/25">
+<title lang="en">Premier League Teams</title>
+<desc lang="en">This Section Has Two Channels For Each Premier League Team And Will Show League + Cup Games For All 2024/25 Games</desc>
 </programme>
-<programme start="20240903000000 +0000" stop="20250903235900 +0000" channel="(EPL) - Liverpool">
-<title lang="pt">AFC Bournemouth v Chelsea - Saturday 14th September - 20:00 Kick Off GMT - English Premier League</title>
-<desc lang="pt">Next Fixture - AFC Bournemouth v Chelsea - Saturday 14th September - 20:00 Kick Off GMT - English Premier League</desc>
+<programme start="20240703000000 +0000" stop="20250730215959 +0000" channel="Premier League Teams 2024/25">
+<title lang="en">Premier League Teams</title>
+<desc lang="en">This Section Has Two Channels For Each Premier League Team And Will Show League + Cup Games For All 2024/25 Games</desc>
 </programme>
-<programme start="20240903000000 +0000" stop="20250903235900 +0000" channel="(EPL) - Liverpool">
-<title lang="pt">Southampton v Manchester United - Saturday 14th September - 12:30 Kick Off GMT - English Premier League</title>
-<desc lang="pt">Next Fixture - Southampton v Manchester United - Saturday 14th September - 12:30 Kick Off GMT - English Premier League</desc>
+<programme start="20240704000000 +0000" stop="20250730215959 +0000" channel="Premier League Teams 2024/25">
+<title lang="en">Premier League Teams</title>
+<desc lang="en">This Section Has Two Channels For Each Premier League Team And Will Show League + Cup Games For All 2024/25 Games</desc>
 </programme>
-<programme start="20240903000000 +0000" stop="20250903235900 +0000" channel="(EPL) - Liverpool">
-<title lang="pt">Plymouth v Sunderland - Saturday 14th September - 15:00 Kick Off GMT - EFL Championship</title>
-<desc lang="pt">Next Fixture - Plymouth v Sunderland - Saturday 14th September - 15:00 Kick Off GMT - EFL Championship</desc>
+<programme start="20240705000000 +0000" stop="20250730215959 +0000" channel="Premier League Teams 2024/25">
+<title lang="en">Premier League Teams</title>
+<desc lang="en">This Section Has Two Channels For Each Premier League Team And Will Show League + Cup Games For All 2024/25 Games</desc>
+</programme>
+<channel id="Arsenal">
+<display-name lang="en">Arsenal</display-name>
+<icon src="https://archive.org/download/arsenal_202309/Arsenal.jpg"/>
+</channel>
+<programme start="20240701000000 +0000" stop="20240915215959 +0000" channel="Arsenal">
+<title lang="en">Tottenham Hotspur v Arsenal</title>
+<desc lang="en">Next Fixture - Tottenham Hotspur v Arsenal - Sunday 15th September - 14:00 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20240702000000 +0000" stop="20240919215959 +0000" channel="Arsenal">
+<title lang="en">Atalanta v Arsenal</title>
+<desc lang="en">Next Fixture - Atalanta v Arsenal - Thursday 19th September - 20:00 Kick Off GMT - UEFA Champions League</desc>
+</programme>
+<programme start="20240703000000 +0000" stop="20240922215959 +0000" channel="Arsenal">
+<title lang="en">Manchester City v Arsenal</title>
+<desc lang="en">Next Fixture - Manchester City v Arsenal - Sunday 22nd September - 16:30 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20240704000000 +0000" stop="20240928215959 +0000" channel="Arsenal">
+<title lang="en">Arsenal v Leicester City</title>
+<desc lang="en">Next Fixture - Arsenal v Leicester City - Saturday 28th September - 15:00 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20240705000000 +0000" stop="20241001215959 +0000" channel="Arsenal">
+<title lang="en">Arsenal v PSG</title>
+<desc lang="en">Next Fixture - Arsenal v PSG - Tuesday 1st October - 20:00 Kick Off GMT - UEFA Champions League</desc>
+</programme>
+<programme start="20240707000000 +0000" stop="20241005215959 +0000" channel="Arsenal">
+<title lang="en">Arsenal v Southampton</title>
+<desc lang="en">Next Fixture - Arsenal v Southampton - Saturday 5th October - 15:00 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20240708000000 +0000" stop="20241019215959 +0000" channel="Arsenal">
+<title lang="en">AFC Bournemouth v Arsenal</title>
+<desc lang="en">Next Fixture - AFC Bournemouth v Arsenal - Saturday 19th October - 17:30 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20240709000000 +0000" stop="20241022215959 +0000" channel="Arsenal">
+<title lang="en">Arsenal v SHakhtar Donetsk</title>
+<desc lang="en">Next Fixture - Arsenal v SHakhtar Donetsk - Tuesday 22nd October - 20:00 Kick Off GMT - UEFA Champions League</desc>
+</programme>
+<programme start="20240710000000 +0000" stop="20241027215959 +0000" channel="Arsenal">
+<title lang="en">Arsenal v Liverpool</title>
+<desc lang="en">Next Fixture - Arsenal v Liverpool - Sunday 27th October - 16:30 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20240711000000 +0000" stop="20241102215959 +0000" channel="Arsenal">
+<title lang="en">Newcastle United v Arsenal</title>
+<desc lang="en">Next Fixture - Newcastle United v Arsenal - Saturday 2nd November - 15:00 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20240712000000 +0000" stop="20241106215959 +0000" channel="Arsenal">
+<title lang="en">Inter Milan v Arsenal</title>
+<desc lang="en">Next Fixture - Inter Milan v Arsenal - Wednesday 6th November - 20:00 Kick Off GMT - UEFA Champions Leaguee</desc>
+</programme>
+<programme start="20240713000000 +0000" stop="20241109215959 +0000" channel="Arsenal">
+<title lang="en">Chelsea v Arsenal</title>
+<desc lang="en">Next Fixture - Chelsea v Arsenal - Saturday 9th November - 15:00 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20240714000000 +0000" stop="20241123215959 +0000" channel="Arsenal">
+<title lang="en">Arsenal v Nottingham Forest</title>
+<desc lang="en">Next Fixture - Arsenal v Nottingham Forest - Saturday 23rd November - 15:00 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20240715000000 +0000" stop="20241126215959 +0000" channel="Arsenal">
+<title lang="en">Sporting CP v Arsenal</title>
+<desc lang="en">Next Fixture - Sporting CP v Arsenal - Tuesday 26th November - 20:00 Kick Off GMT - UEFA Champions Leaguee</desc>
+</programme>
+<programme start="20240716000000 +0000" stop="20241130215959 +0000" channel="Arsenal">
+<title lang="en">West Ham United v Arsenal</title>
+<desc lang="en">Next Fixture - West Ham United v Arsenal - Saturday 30th November - 15:00 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20240717000000 +0000" stop="20240929215959 +0000" channel="Arsenal">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240718000000 +0000" stop="20240929215959 +0000" channel="Arsenal">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240719000000 +0000" stop="20240929215959 +0000" channel="Arsenal">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240720000000 +0000" stop="20240929215959 +0000" channel="Arsenal">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240721000000 +0000" stop="20240929215959 +0000" channel="Arsenal">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240722000000 +0000" stop="20240929215959 +0000" channel="Arsenal">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240723000000 +0000" stop="20240929215959 +0000" channel="Arsenal">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240724000000 +0000" stop="20240929215959 +0000" channel="Arsenal">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240725000000 +0000" stop="20240929215959 +0000" channel="Arsenal">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240726000000 +0000" stop="20240929215959 +0000" channel="Arsenal">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240727000000 +0000" stop="20240929215959 +0000" channel="Arsenal">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240728000000 +0000" stop="20240929215959 +0000" channel="Arsenal">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240729000000 +0000" stop="20240929215959 +0000" channel="Arsenal">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240730000000 +0000" stop="20240929215959 +0000" channel="Arsenal">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240731000000 +0000" stop="20240929215959 +0000" channel="Arsenal">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240801000000 +0000" stop="20240929215959 +0000" channel="Arsenal">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240802000000 +0000" stop="20240929215959 +0000" channel="Arsenal">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240803000000 +0000" stop="20240929215959 +0000" channel="Arsenal">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240804000000 +0000" stop="20240929215959 +0000" channel="Arsenal">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240805000000 +0000" stop="20240929215959 +0000" channel="Arsenal">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240806000000 +0000" stop="20240929215959 +0000" channel="Arsenal">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240807000000 +0000" stop="20240929215959 +0000" channel="Arsenal">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240808000000 +0000" stop="20240929215959 +0000" channel="Arsenal">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240809000000 +0000" stop="20240929215959 +0000" channel="Arsenal">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240810000000 +0000" stop="20240929215959 +0000" channel="Arsenal">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240811000000 +0000" stop="20240929215959 +0000" channel="Arsenal">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240812000000 +0000" stop="20240929215959 +0000" channel="Arsenal">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240813000000 +0000" stop="20240929215959 +0000" channel="Arsenal">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240814000000 +0000" stop="20240929215959 +0000" channel="Arsenal">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240815000000 +0000" stop="20240929215959 +0000" channel="Arsenal">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240816000000 +0000" stop="20240929215959 +0000" channel="Arsenal">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240817000000 +0000" stop="20240929215959 +0000" channel="Arsenal">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240818000000 +0000" stop="20240929215959 +0000" channel="Arsenal">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240819000000 +0000" stop="20240929215959 +0000" channel="Arsenal">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240820000000 +0000" stop="20240929215959 +0000" channel="Arsenal">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<channel id="Aston Villa">
+<display-name lang="en">Aston Villa</display-name>
+<icon src="https://archive.org/download/arsenal_202309/Aston Villa.jpg"/>
+</channel>
+<programme start="20240701000000 +0000" stop="20240914215959 +0000" channel="Aston Villa">
+<title lang="en">Aston Villa v Everton</title>
+<desc lang="en">Next Fixture - Aston Villa v Everton - Saturday 14th September - 17:30 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20240702000000 +0000" stop="20240917215959 +0000" channel="Aston Villa">
+<title lang="en">Young Boys v Aston Villa</title>
+<desc lang="en">Next Fixture - Young Boys v Aston Villa - Tuesday 17th September - 17:30 Kick Off GMT - UEFA Champions League</desc>
+</programme>
+<programme start="20240703000000 +0000" stop="20240921215959 +0000" channel="Aston Villa">
+<title lang="en">Aston Villa v Wolverhampton Wanderers</title>
+<desc lang="en">Next Fixture - Aston Villa v Wolverhampton Wanderers - Saturday 21st September - 15:00 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20240704000000 +0000" stop="20240929215959 +0000" channel="Aston Villa">
+<title lang="en">Ipswich Town v Aston Villa</title>
+<desc lang="en">Next Fixture - Ipswich Town v Aston Villa - Sunday 29th September - 14:00 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20240705000000 +0000" stop="20241002215959 +0000" channel="Aston Villa">
+<title lang="en">Aston Villa v Bayern Munich</title>
+<desc lang="en">Next Fixture - Aston Villa v Bayern Munich - Wednesday 2nd October - 20:00 Kick Off GMT - UEFA Champions League</desc>
+</programme>
+<programme start="20240707000000 +0000" stop="20241006215959 +0000" channel="Aston Villa">
+<title lang="en">Aston Villa v Manchester United</title>
+<desc lang="en">Next Fixture - Aston Villa v Manchester United - Sunday 6th October - 14:00 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20240708000000 +0000" stop="20241019215959 +0000" channel="Aston Villa">
+<title lang="en">Fulham v Aston Villa</title>
+<desc lang="en">Next Fixture - Fulham v Aston Villa - Saturday 19th October - 15:00 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20240709000000 +0000" stop="20241022215959 +0000" channel="Aston Villa">
+<title lang="en">Aston Villa v Bologna</title>
+<desc lang="en">Next Fixture - Aston Villa v Bologna - Tuesday 22nd October - 20:00 Kick Off GMT - UEFA Champions League</desc>
+</programme>
+<programme start="20240710000000 +0000" stop="20241026215959 +0000" channel="Aston Villa">
+<title lang="en">Aston Villa v AFC Bournemouth</title>
+<desc lang="en">Next Fixture - Aston Villa v AFC Bournemouth - Saturday 26th October - 15:00 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20240711000000 +0000" stop="20241102215959 +0000" channel="Aston Villa">
+<title lang="en">Tottenham Hotspur v Aston Villa</title>
+<desc lang="en">Next Fixture - Tottenham Hotspur v Aston Villa - Saturday 2nd November - 15:00 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20240712000000 +0000" stop="20241106215959 +0000" channel="Aston Villa">
+<title lang="en">Premier League Match 11</title>
+<desc lang="en">Premier League Match 11</desc>
+</programme>
+<programme start="20240713000000 +0000" stop="20241109215959 +0000" channel="Aston Villa">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240714000000 +0000" stop="20241123215959 +0000" channel="Aston Villa">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240715000000 +0000" stop="20241126215959 +0000" channel="Aston Villa">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240716000000 +0000" stop="20241130215959 +0000" channel="Aston Villa">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240717000000 +0000" stop="20240929215959 +0000" channel="Aston Villa">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240718000000 +0000" stop="20240929215959 +0000" channel="Aston Villa">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240719000000 +0000" stop="20240929215959 +0000" channel="Aston Villa">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240720000000 +0000" stop="20240929215959 +0000" channel="Aston Villa">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240721000000 +0000" stop="20240929215959 +0000" channel="Aston Villa">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240722000000 +0000" stop="20240929215959 +0000" channel="Aston Villa">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240723000000 +0000" stop="20240929215959 +0000" channel="Aston Villa">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240724000000 +0000" stop="20240929215959 +0000" channel="Aston Villa">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240725000000 +0000" stop="20240929215959 +0000" channel="Aston Villa">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240726000000 +0000" stop="20240929215959 +0000" channel="Aston Villa">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240727000000 +0000" stop="20240929215959 +0000" channel="Aston Villa">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240728000000 +0000" stop="20240929215959 +0000" channel="Aston Villa">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240729000000 +0000" stop="20240929215959 +0000" channel="Aston Villa">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240730000000 +0000" stop="20240929215959 +0000" channel="Aston Villa">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240731000000 +0000" stop="20240929215959 +0000" channel="Aston Villa">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240801000000 +0000" stop="20240929215959 +0000" channel="Aston Villa">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240802000000 +0000" stop="20240929215959 +0000" channel="Aston Villa">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240803000000 +0000" stop="20240929215959 +0000" channel="Aston Villa">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240804000000 +0000" stop="20240929215959 +0000" channel="Aston Villa">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240805000000 +0000" stop="20240929215959 +0000" channel="Aston Villa">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240806000000 +0000" stop="20240929215959 +0000" channel="Aston Villa">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240807000000 +0000" stop="20240929215959 +0000" channel="Aston Villa">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240808000000 +0000" stop="20240929215959 +0000" channel="Aston Villa">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240809000000 +0000" stop="20240929215959 +0000" channel="Aston Villa">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240810000000 +0000" stop="20240929215959 +0000" channel="Aston Villa">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240811000000 +0000" stop="20240929215959 +0000" channel="Aston Villa">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240812000000 +0000" stop="20240929215959 +0000" channel="Aston Villa">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240813000000 +0000" stop="20240929215959 +0000" channel="Aston Villa">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240814000000 +0000" stop="20240929215959 +0000" channel="Aston Villa">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240815000000 +0000" stop="20240929215959 +0000" channel="Aston Villa">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240816000000 +0000" stop="20240929215959 +0000" channel="Aston Villa">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240817000000 +0000" stop="20240929215959 +0000" channel="Aston Villa">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240818000000 +0000" stop="20240929215959 +0000" channel="Aston Villa">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240819000000 +0000" stop="20240929215959 +0000" channel="Aston Villa">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240820000000 +0000" stop="20240929215959 +0000" channel="Aston Villa">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<channel id="Bournemouth">
+<display-name lang="en">Bournemouth</display-name>
+<icon src="https://archive.org/download/arsenal_202309/Bournemouth.jpg"/>
+</channel>
+<programme start="20240701000000 +0000" stop="20240914215959 +0000" channel="Bournemouth">
+<title lang="en">AFC Bournemouth v Chelsea</title>
+<desc lang="en">Next Fixture - AFC Bournemouth v Chelsea - Saturday 14th September - 20:00 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20240702000000 +0000" stop="20240921215959 +0000" channel="Bournemouth">
+<title lang="en">Liverpool v AFC Bournemouth</title>
+<desc lang="en">Next Fixture - Liverpool v AFC Bournemouth - Saturday 21st September - 15:00 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20240703000000 +0000" stop="20240930215959 +0000" channel="Bournemouth">
+<title lang="en">AFC Bournemouth v Southampton</title>
+<desc lang="en">Next Fixture - AFC Bournemouth v Southampton - Monday 30th September - 20:00 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20240704000000 +0000" stop="20241005215959 +0000" channel="Bournemouth">
+<title lang="en">Leicester City v AFC Bournemouth</title>
+<desc lang="en">Next Fixture - Leicester City v AFC Bournemouth - Saturday 5th October - 15:00 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20240705000000 +0000" stop="20241019215959 +0000" channel="Bournemouth">
+<title lang="en">AFC Bournemouth v Arsenal</title>
+<desc lang="en">Next Fixture - AFC Bournemouth v Arsenal - Saturday 19th October - 17:30 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20240707000000 +0000" stop="20241026215959 +0000" channel="Bournemouth">
+<title lang="en">Aston Villa v AFC Bournemouth</title>
+<desc lang="en">Next Fixture - Aston Villa v AFC Bournemouth - Saturday 26th October - 15:00 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20240708000000 +0000" stop="20241102215959 +0000" channel="Bournemouth">
+<title lang="en">AFC Bournemouth v Manchester City</title>
+<desc lang="en">Next Fixture - AFC Bournemouth v Manchester City - Saturday 2nd November - 15:00 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20240709000000 +0000" stop="20241109215959 +0000" channel="Bournemouth">
+<title lang="en">Brentford v AFC Bournemouth</title>
+<desc lang="en">Next Fixture - Brentford v AFC Bournemouth - Saturday 9th November - 15:00 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20240710000000 +0000" stop="20241123215959 +0000" channel="Bournemouth">
+<title lang="en">AFC Bournemouth v Brighton And Hove Albion</title>
+<desc lang="en">Next Fixture - AFC Bournemouth v Brighton And Hove Albion - Saturday 23rd November - 15:00 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20240711000000 +0000" stop="20241130215959 +0000" channel="Bournemouth">
+<title lang="en">Wolverhampton Wanderers v AFC Bournemouth</title>
+<desc lang="en">Next Fixture - Wolverhampton Wanderers v AFC Bournemouth - Saturday 30th November - 15:00 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20240712000000 +0000" stop="20241106215959 +0000" channel="Bournemouth">
+<title lang="en">Premier League Match 11</title>
+<desc lang="en">Premier League Match 11</desc>
+</programme>
+<programme start="20240713000000 +0000" stop="20241109215959 +0000" channel="Bournemouth">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240714000000 +0000" stop="20241123215959 +0000" channel="Bournemouth">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240715000000 +0000" stop="20241126215959 +0000" channel="Bournemouth">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240716000000 +0000" stop="20241130215959 +0000" channel="Bournemouth">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240717000000 +0000" stop="20240929215959 +0000" channel="Bournemouth">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240718000000 +0000" stop="20240929215959 +0000" channel="Bournemouth">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240719000000 +0000" stop="20240929215959 +0000" channel="Bournemouth">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240720000000 +0000" stop="20240929215959 +0000" channel="Bournemouth">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240721000000 +0000" stop="20240929215959 +0000" channel="Bournemouth">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240722000000 +0000" stop="20240929215959 +0000" channel="Bournemouth">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240723000000 +0000" stop="20240929215959 +0000" channel="Bournemouth">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240724000000 +0000" stop="20240929215959 +0000" channel="Bournemouth">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240725000000 +0000" stop="20240929215959 +0000" channel="Bournemouth">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240726000000 +0000" stop="20240929215959 +0000" channel="Bournemouth">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240727000000 +0000" stop="20240929215959 +0000" channel="Bournemouth">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240728000000 +0000" stop="20240929215959 +0000" channel="Bournemouth">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240729000000 +0000" stop="20240929215959 +0000" channel="Bournemouth">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240730000000 +0000" stop="20240929215959 +0000" channel="Bournemouth">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240731000000 +0000" stop="20240929215959 +0000" channel="Bournemouth">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240801000000 +0000" stop="20240929215959 +0000" channel="Bournemouth">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240802000000 +0000" stop="20240929215959 +0000" channel="Bournemouth">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240803000000 +0000" stop="20240929215959 +0000" channel="Bournemouth">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240804000000 +0000" stop="20240929215959 +0000" channel="Bournemouth">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240805000000 +0000" stop="20240929215959 +0000" channel="Bournemouth">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240806000000 +0000" stop="20240929215959 +0000" channel="Bournemouth">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240807000000 +0000" stop="20240929215959 +0000" channel="Bournemouth">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240808000000 +0000" stop="20240929215959 +0000" channel="Bournemouth">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240809000000 +0000" stop="20240929215959 +0000" channel="Bournemouth">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240810000000 +0000" stop="20240929215959 +0000" channel="Bournemouth">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240811000000 +0000" stop="20240929215959 +0000" channel="Bournemouth">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240812000000 +0000" stop="20240929215959 +0000" channel="Bournemouth">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240813000000 +0000" stop="20240929215959 +0000" channel="Bournemouth">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240814000000 +0000" stop="20240929215959 +0000" channel="Bournemouth">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240815000000 +0000" stop="20240929215959 +0000" channel="Bournemouth">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240816000000 +0000" stop="20240929215959 +0000" channel="Bournemouth">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240817000000 +0000" stop="20240929215959 +0000" channel="Bournemouth">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240818000000 +0000" stop="20240929215959 +0000" channel="Bournemouth">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240819000000 +0000" stop="20240929215959 +0000" channel="Bournemouth">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240820000000 +0000" stop="20240929215959 +0000" channel="Bournemouth">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<channel id="Brentford">
+<display-name lang="en">Brentford</display-name>
+<icon src="https://archive.org/download/arsenal_202309/Brentford.jpg"/>
+</channel>
+<programme start="20240701000000 +0000" stop="20240914215959 +0000" channel="Brentford">
+<title lang="en">Manchester City v Brentford</title>
+<desc lang="en">Next Fixture - Manchester City v Brentford - Saturday 14th September - 15:00 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20240702000000 +0000" stop="20240921215959 +0000" channel="Brentford">
+<title lang="en">Tottenham Hotspur v Brentford</title>
+<desc lang="en">Next Fixture - Tottenham Hotspur v Brentford - Saturday 21st September - 15:00 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20240703000000 +0000" stop="20240928215959 +0000" channel="Brentford">
+<title lang="en">Brentford v West Ham United</title>
+<desc lang="en">Next Fixture - Brentford v West Ham United - Saturday 28th September - 15:00 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20240704000000 +0000" stop="20241005215959 +0000" channel="Brentford">
+<title lang="en">Brentford v Wolverhampton Wanderers</title>
+<desc lang="en">Next Fixture - Brentford v Wolverhampton Wanderers - Saturday 5th October - 15:00 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20240705000000 +0000" stop="20241019215959 +0000" channel="Brentford">
+<title lang="en">Manchester United v Brentford</title>
+<desc lang="en">Next Fixture - Manchester United v Brentford - Saturday 19th October - 15:00 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20240707000000 +0000" stop="20241026215959 +0000" channel="Brentford">
+<title lang="en">Brentford v Ipswich Town</title>
+<desc lang="en">Next Fixture - Brentford v Ipswich Town - Saturday 26th October - 15:00 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20240708000000 +0000" stop="20241102215959 +0000" channel="Brentford">
+<title lang="en">Fulham v Brentford</title>
+<desc lang="en">Next Fixture - Fulham v Brentford - Saturday 2nd November - 15:00 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20240709000000 +0000" stop="20241109215959 +0000" channel="Brentford">
+<title lang="en">Brentford v AFC Bournemouth</title>
+<desc lang="en">Next Fixture - Brentford v AFC Bournemouth - Saturday 9th November - 15:00 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20240710000000 +0000" stop="20241123215959 +0000" channel="Brentford">
+<title lang="en">Everton v Brentford</title>
+<desc lang="en">Next Fixture - Everton v Brentford - Saturday 23rd November - 15:00 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20240711000000 +0000" stop="20241130215959 +0000" channel="Brentford">
+<title lang="en">Brentford v Leicester City</title>
+<desc lang="en">Next Fixture - Brentford v Leicester City - Saturday 30th November - 15:00 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20240712000000 +0000" stop="20241106215959 +0000" channel="Brentford">
+<title lang="en">Premier League Match 11</title>
+<desc lang="en">Premier League Match 11</desc>
+</programme>
+<programme start="20240713000000 +0000" stop="20241109215959 +0000" channel="Brentford">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240714000000 +0000" stop="20241123215959 +0000" channel="Brentford">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240715000000 +0000" stop="20241126215959 +0000" channel="Brentford">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240716000000 +0000" stop="20241130215959 +0000" channel="Brentford">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240717000000 +0000" stop="20240929215959 +0000" channel="Brentford">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240718000000 +0000" stop="20240929215959 +0000" channel="Brentford">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240719000000 +0000" stop="20240929215959 +0000" channel="Brentford">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240720000000 +0000" stop="20240929215959 +0000" channel="Brentford">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240721000000 +0000" stop="20240929215959 +0000" channel="Brentford">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240722000000 +0000" stop="20240929215959 +0000" channel="Brentford">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240723000000 +0000" stop="20240929215959 +0000" channel="Brentford">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240724000000 +0000" stop="20240929215959 +0000" channel="Brentford">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240725000000 +0000" stop="20240929215959 +0000" channel="Brentford">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240726000000 +0000" stop="20240929215959 +0000" channel="Brentford">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240727000000 +0000" stop="20240929215959 +0000" channel="Brentford">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240728000000 +0000" stop="20240929215959 +0000" channel="Brentford">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240729000000 +0000" stop="20240929215959 +0000" channel="Brentford">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240730000000 +0000" stop="20240929215959 +0000" channel="Brentford">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240731000000 +0000" stop="20240929215959 +0000" channel="Brentford">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240801000000 +0000" stop="20240929215959 +0000" channel="Brentford">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240802000000 +0000" stop="20240929215959 +0000" channel="Brentford">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240803000000 +0000" stop="20240929215959 +0000" channel="Brentford">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240804000000 +0000" stop="20240929215959 +0000" channel="Brentford">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240805000000 +0000" stop="20240929215959 +0000" channel="Brentford">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240806000000 +0000" stop="20240929215959 +0000" channel="Brentford">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240807000000 +0000" stop="20240929215959 +0000" channel="Brentford">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240808000000 +0000" stop="20240929215959 +0000" channel="Brentford">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240809000000 +0000" stop="20240929215959 +0000" channel="Brentford">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240810000000 +0000" stop="20240929215959 +0000" channel="Brentford">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240811000000 +0000" stop="20240929215959 +0000" channel="Brentford">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240812000000 +0000" stop="20240929215959 +0000" channel="Brentford">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240813000000 +0000" stop="20240929215959 +0000" channel="Brentford">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240814000000 +0000" stop="20240929215959 +0000" channel="Brentford">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240815000000 +0000" stop="20240929215959 +0000" channel="Brentford">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240816000000 +0000" stop="20240929215959 +0000" channel="Brentford">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240817000000 +0000" stop="20240929215959 +0000" channel="Brentford">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240818000000 +0000" stop="20240929215959 +0000" channel="Brentford">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240819000000 +0000" stop="20240929215959 +0000" channel="Brentford">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240820000000 +0000" stop="20240929215959 +0000" channel="Brentford">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<channel id="Brighton">
+<display-name lang="en">Brighton</display-name>
+<icon src="https://archive.org/download/arsenal_202309/Brighton.jpg"/>
+</channel>
+<programme start="20240701000000 +0000" stop="20240914215959 +0000" channel="Brighton">
+<title lang="en">Brighton And Hove Albion v Ipswich Town</title>
+<desc lang="en">Next Fixture - Brighton And Hove Albion v Ipswich Town - Saturday 14th September - 15:00 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20240702000000 +0000" stop="20240918215959 +0000" channel="Brighton">
+<title lang="en">Brighton And Hove Albion v Wolverhampton Wanderers</title>
+<desc lang="en">Next Fixture - Brighton And Hove Albion v Wolverhampton Wanderers - Wednesday 18th September - 19:45 Kick Off GMT - Carabao Cup</desc>
+</programme>
+<programme start="20240703000000 +0000" stop="20240922215959 +0000" channel="Brighton">
+<title lang="en">Brighton And Hove Albion v Nottingham Forest</title>
+<desc lang="en">Next Fixture - Brighton And Hove Albion v Nottingham Forest - Sunday 22nd September - 14:00 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20240704000000 +0000" stop="20240928215959 +0000" channel="Brighton">
+<title lang="en">Chelsea v Brighton And Hove Albion</title>
+<desc lang="en">Next Fixture - Chelsea v Brighton And Hove Albion - Saturday 28th September - 15:00 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20240705000000 +0000" stop="20241006215959 +0000" channel="Brighton">
+<title lang="en">Brighton And Hove Albion v Tottenham Hotspur</title>
+<desc lang="en">Next Fixture - Brighton And Hove Albion v Tottenham Hotspur - Sunday 6th October - 16:30 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20240707000000 +0000" stop="20241019215959 +0000" channel="Brighton">
+<title lang="en">Newcastle United v Brighton And Hove Albion</title>
+<desc lang="en">Next Fixture - Newcastle United v Brighton And Hove Albion - Saturday 19th October - 15:00 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20240708000000 +0000" stop="20241026215959 +0000" channel="Brighton">
+<title lang="en">Brighton And Hove Albion v Wolverhampton Wanderers</title>
+<desc lang="en">Next Fixture - Brighton And Hove Albion v Wolverhampton Wanderers - Saturday 26th October - 15:00 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20240709000000 +0000" stop="20241102215959 +0000" channel="Brighton">
+<title lang="en">Liverpool v Brighton And Hove Albion</title>
+<desc lang="en">Next Fixture - Liverpool v Brighton And Hove Albion - Saturday 2nd November - 15:00 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20240710000000 +0000" stop="20241109215959 +0000" channel="Brighton">
+<title lang="en">Brighton And Hove Albion v Manchester City</title>
+<desc lang="en">Next Fixture - Brighton And Hove Albion v Manchester City - Saturday 9th November - 15:00 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20240711000000 +0000" stop="20241123215959 +0000" channel="Brighton">
+<title lang="en">AFC Bournemouth v Brighton And Hove Albion</title>
+<desc lang="en">Next Fixture - AFC Bournemouth v Brighton And Hove Albion - Saturday 23rd November - 15:00 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20240712000000 +0000" stop="20241106215959 +0000" channel="Brighton">
+<title lang="en">Premier League Match 11</title>
+<desc lang="en">Premier League Match 11</desc>
+</programme>
+<programme start="20240713000000 +0000" stop="20241109215959 +0000" channel="Brighton">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240714000000 +0000" stop="20241123215959 +0000" channel="Brighton">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240715000000 +0000" stop="20241126215959 +0000" channel="Brighton">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240716000000 +0000" stop="20241130215959 +0000" channel="Brighton">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240717000000 +0000" stop="20240929215959 +0000" channel="Brighton">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240718000000 +0000" stop="20240929215959 +0000" channel="Brighton">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240719000000 +0000" stop="20240929215959 +0000" channel="Brighton">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240720000000 +0000" stop="20240929215959 +0000" channel="Brighton">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240721000000 +0000" stop="20240929215959 +0000" channel="Brighton">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240722000000 +0000" stop="20240929215959 +0000" channel="Brighton">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240723000000 +0000" stop="20240929215959 +0000" channel="Brighton">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240724000000 +0000" stop="20240929215959 +0000" channel="Brighton">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240725000000 +0000" stop="20240929215959 +0000" channel="Brighton">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240726000000 +0000" stop="20240929215959 +0000" channel="Brighton">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240727000000 +0000" stop="20240929215959 +0000" channel="Brighton">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240728000000 +0000" stop="20240929215959 +0000" channel="Brighton">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240729000000 +0000" stop="20240929215959 +0000" channel="Brighton">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240730000000 +0000" stop="20240929215959 +0000" channel="Brighton">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240731000000 +0000" stop="20240929215959 +0000" channel="Brighton">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240801000000 +0000" stop="20240929215959 +0000" channel="Brighton">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240802000000 +0000" stop="20240929215959 +0000" channel="Brighton">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240803000000 +0000" stop="20240929215959 +0000" channel="Brighton">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240804000000 +0000" stop="20240929215959 +0000" channel="Brighton">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240805000000 +0000" stop="20240929215959 +0000" channel="Brighton">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240806000000 +0000" stop="20240929215959 +0000" channel="Brighton">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240807000000 +0000" stop="20240929215959 +0000" channel="Brighton">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240808000000 +0000" stop="20240929215959 +0000" channel="Brighton">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240809000000 +0000" stop="20240929215959 +0000" channel="Brighton">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240810000000 +0000" stop="20240929215959 +0000" channel="Brighton">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240811000000 +0000" stop="20240929215959 +0000" channel="Brighton">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240812000000 +0000" stop="20240929215959 +0000" channel="Brighton">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240813000000 +0000" stop="20240929215959 +0000" channel="Brighton">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240814000000 +0000" stop="20240929215959 +0000" channel="Brighton">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240815000000 +0000" stop="20240929215959 +0000" channel="Brighton">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240816000000 +0000" stop="20240929215959 +0000" channel="Brighton">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240817000000 +0000" stop="20240929215959 +0000" channel="Brighton">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
+</programme>
+<programme start="20240818000000 +0000" stop="20240929215959 +0000" channel="Brighton">
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
 </programme>
